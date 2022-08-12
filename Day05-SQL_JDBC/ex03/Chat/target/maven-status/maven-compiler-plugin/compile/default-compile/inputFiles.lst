@@ -1,0 +1,7 @@
+/Users/cdionna/Desktop/Day05/ex03/Chat/src/main/java/edu/school21/chat/exceptions/NotSavedSubEntityException.java
+/Users/cdionna/Desktop/Day05/ex03/Chat/src/main/java/edu/school21/chat/repositories/MessagesRepositoryJdbcImpl.java
+/Users/cdionna/Desktop/Day05/ex03/Chat/src/main/java/edu/school21/chat/app/Program.java
+/Users/cdionna/Desktop/Day05/ex03/Chat/src/main/java/edu/school21/chat/models/Message.java
+/Users/cdionna/Desktop/Day05/ex03/Chat/src/main/java/edu/school21/chat/models/Chatroom.java
+/Users/cdionna/Desktop/Day05/ex03/Chat/src/main/java/edu/school21/chat/models/User.java
+/Users/cdionna/Desktop/Day05/ex03/Chat/src/main/java/edu/school21/chat/repositories/MessagesRepository.java
